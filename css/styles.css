@@ -1,0 +1,30 @@
+.col-spaced{
+    margin-left: 160px;
+    margin-right:80px 
+}
+#section6{
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+#section1{
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#section3{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+}
+.col-sm-3{
+    padding-bottom:40px; 
+}
+.form-control{
+    background-color: transparent;
+}
