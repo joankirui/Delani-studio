@@ -26,4 +26,8 @@ $(document).ready(function(){
         $("#product").hide();
     });
 });
-
+$(document).ready(function(){
+    $("form").submit(function(){
+        var name=$(input)
+    }
+}
