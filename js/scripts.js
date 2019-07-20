@@ -27,6 +27,26 @@ $(document).ready(function(){
     });
 });
 $(document).ready(function(){
+    $("img#img1").mouseover(function(){
+        $()
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$(document).ready(function(){
     $("form").submit(function(){
         var name = $("textarea#textarea").val();
         var name = $("input#email").val();
