@@ -14,13 +14,17 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    padding-bottom: 35px;
+    padding-top: 40px;
 }
 #section3{
     background-image: url(../assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 250px;
+    /* height: 250px; */
+    padding-top: 60px;
+    padding-bottom: 60px
 }
 .col-sm-3{
     padding-bottom:40px; 
