@@ -28,6 +28,15 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     $("form").submit(function(){
-        var name=$(input)
-    }
-}
+        var name = $("textarea#textarea").val();
+        var name = $("input#email").val();
+        var name = $("input#name").val();
+        if($("input#name").val() && $("input#email").val() && $("textarea#textarea").val() !=""){
+            alert(name+" we have received your message.Thankyou for contacting us!!");
+        }
+        else
+        {
+            alert("please enter your name,email and message.")
+        }
+    });
+});
