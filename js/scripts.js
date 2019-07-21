@@ -81,8 +81,7 @@ $(document).ready(function(){
     }).mouseout(function(){
         $("#overlay8").hide();
     });
-});
-  
+});  
 $(document).ready(function(){
     $("form").submit(function(){
         var name = $("textarea#textarea").val();
