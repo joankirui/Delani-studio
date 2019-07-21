@@ -82,8 +82,7 @@ $(document).ready(function(){
         $("#overlay8").hide();
     });
 });
-
-used variable name for all  
+  
 $(document).ready(function(){
     $("form").submit(function(){
         var name = $("textarea#textarea").val();
