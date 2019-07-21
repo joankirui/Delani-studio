@@ -5,7 +5,8 @@ This is a project that aims at creating a landing page for Delani Studio.It cont
 
 ## Author.
 Joan Kirui
-
+## Live link
+*https://joankirui.github.io/Delani-studio
 ## Technologies used.
 <li>HTML</li>
 <li>CSS</li>
