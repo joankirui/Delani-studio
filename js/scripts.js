@@ -83,7 +83,7 @@ $(document).ready(function(){
     });
 });
 
-
+used variable name for all  
 $(document).ready(function(){
     $("form").submit(function(){
         var name = $("textarea#textarea").val();
