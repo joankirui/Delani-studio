@@ -20,6 +20,9 @@ Joan Kirui
 * cd Delani-studio
 * code . or atom . based on your text editor
 
+## Known bugs
+variables declared but cannot be read.so i settled on giving all the variables a name called name which is absolutely very wrong.That was my only way of making the project alert the user.
+
 # Contact.
 * joankirui99@gmail.com
 
