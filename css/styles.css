@@ -39,15 +39,15 @@
     display: none;
 }
 #overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
-    width: 280px;
-    height: 190px;
+    width: 80%;
+    height: 60%;
     background-color:white;
     opacity: 0.5;
     position: absolute;
     top: 1em; 
     display: none;
     text-align: center;
-    font-size: 37px;
+    font-size: 18px;
     font-weight: bolder;
     font-style: italic;
     border-style: solid;
