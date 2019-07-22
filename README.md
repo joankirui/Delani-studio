@@ -4,6 +4,7 @@ This is a project that aims at creating a landing page for Delani Studio.It cont
 
 ##Author##
 Joan Kirui
+<<<<<<< HEAD
 
 ##Technologies used##
 HTML
@@ -12,6 +13,23 @@ Javascript
 Markdown
 Jquery
 Bootstrap
+=======
+## Live link
+*https://joankirui.github.io/Delani-studio
+## Technologies used.
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Markdown</li>
+<li>Jquery</li>
+<li>Bootstrap</li>
+
+# Set-up&installation instructions.
+* open your terminal{ctrl+shift+T}
+* cd Documents
+* cd Delani-studio
+* code . or atom . based on your text editor
+>>>>>>> dabf9f92c71b9c43a05666f6abffbb8ab1bcfb5a
 
 ##Set-up&installation instructions##
 *open your terminal{ctrl+shift+T}
