@@ -1,10 +1,10 @@
-# Delani-studio#
-## Project description## 
+# Delani-studio
+## Project description
 This is a project that aims at creating a landing page for Delani Studio.It contains 7 sections including the about section,what we do section,portfolio section where the user is abble to hover around and footer section and many more.
 
-## Author##
+## Author
 Joan Kirui
-## Technologies used##
+## Technologies used
 HTML
 CSS
 Javascript
@@ -12,7 +12,7 @@ Markdown
 Jquery
 Bootstrap
 ## Live link
-*https://joankirui.github.io/Delani-studio
+https://joankirui.github.io/Delani-studio
 ## Technologies used.
 <li>HTML</li>
 <li>CSS</li>
