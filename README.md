@@ -28,7 +28,7 @@ https://joankirui.github.io/Delani-studio
 * code . or atom . based on your text editor
 
 ## Contact
-*joankirui99@gmail.com
+joankirui99@gmail.com
 
 ## License Information
 Copyright <2019> <Joan Kirui>
